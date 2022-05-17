@@ -1,0 +1,19 @@
+## Anotações
+
+* Primeiramente, segue alguns comandos importantes utilizados no git (máquina local): dir, cls, cd.., del, rmdir, mkdir, entre outros.
+
+* Você deve primeiramente instalar o git na sua máquina, e posteriormente através do terminal do GIT BASH ir criando, alterando, atualizando os seus arquivos desejados.
+
+* BLOBS, TREES, COMMITS.
+
+* Alguns comandos primordiais: git init, git add, git commit -m "msg".
+
+* Definir seu user.email, e user.name
+
+* git status (unmodified, modified, staged), git clone (do repositório remoto para sua máquina)
+
+* git push origin main (empurrar da sua máquina para seu repositório remoto - github)
+
+* Conflitos que podem existir (conflito de merge)
+
+  

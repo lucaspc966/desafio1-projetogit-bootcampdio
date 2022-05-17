@@ -1,0 +1,8 @@
+## Considerações e Conclusão
+
+* Creio que foi um curso onde aprendi os conceitos básicos de GIT e suas diferenças com o GITHUB.
+
+* Estou apto a realizar os comandos básicos (adicionar, commitar) e outros comandos importantes. Empurrar os arquivos da sua máquina para o repositório remoto.
+
+* Portanto, clareou bastante minha mente sobre quais as funcionalidades do Git, e como é usado na prática e qual sua importância.
+* Por fim, considero uma ótima jornada essa de Git e GitHub para meu currículo e para minha experiência na área de programação.
